@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Umang-Kumar, currently a Third year CSE Student at Army Institute of Technology, Pune.
+- 👋 Hi, I’m @Umang-Kumar, currently a Third year CE Student at Army Institute of Technology, Pune.
 - 👀 I’m interested in Programming, Python, Backend Development, Problem Solving and constantly picking up new skills (last time it was Blockchains..)
 - 🌱 I’m currently learning DSA, OOP and Django.
 - 💞️ I’m looking to collaborate on some simple backend projects.
