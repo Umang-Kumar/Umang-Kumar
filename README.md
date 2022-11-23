@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on some simple backend projects.
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/4386-umang-kumar/) | [Facebook](https://www.facebook.com/umangk1/) | [Instagram](https://www.instagram.com/umanga_sauras_/) | [Twitter](https://twitter.com/UmangKu94939930)
 
+🎆Blast @HacktoberFest2022
+
 [![@parzival's Holopin board](https://holopin.me/parzival)](https://holopin.io/@parzival)
 
 
