@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Umang-Kumar, currently a Third year CE Student at Army Institute of Technology, Pune.
+- 👋 Hi, I’m @Umang-Kumar, currently a Final Year CE Student at Army Institute of Technology, Pune.
 - 👀 I’m interested in constantly picking up new skills (last time it was Blockchains, Django).
 - 🌱 I’m currently learning DSA and Django.
 - 💞️ I’m looking to collaborate on some simple backend projects.
