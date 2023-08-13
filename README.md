@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Umang-Kumar, currently a Final Year CE Student at Army Institute of Technology, Pune.
 - 👀 I’m interested in constantly picking up new skills (last time it was Blockchains, Django).
-- 🌱 I’m currently learning DSA and Django.
+- 🌱 I’m currently learning ML.
 - 💞️ I’m looking to collaborate on some simple backend projects.
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/4386-umang-kumar/) | [Facebook](https://www.facebook.com/umangk1/) | [Instagram](https://www.instagram.com/umanga_sauras_/) | [Twitter](https://twitter.com/UmangKu94939930) | [Gmail](mailto:kumarumang4386@gmail.com)
 - 📄 Know about my experiences : [Portfolio](https://umangkumar.pythonanywhere.com/)
